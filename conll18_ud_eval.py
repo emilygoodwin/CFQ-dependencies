@@ -1,3 +1,9 @@
+'''
+This script is adapted from the 2018 version of the CoNLL 2018 Shared Task Evaluation Script. 
+It has been modified to calculate the percentage of sentences in the test set which have all 
+`content word’ arcs correctly labeled. 
+'''
+
 #!/usr/bin/env python3
 
 # Compatible with Python 2.7 and 3.2+, can be used either as a module
